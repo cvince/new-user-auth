@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tmlbl/mongoose-geolocation-example.git"
+    "url": "git://github.com/cvince/new-user-auth.git"
   },
-  "author": "Tim Lebel",
+  "author": "Vincent Chan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tmlbl/mongoose-geolocation-example/issues"
+    "url": "https://github.com/cvince/new-user-auth"
   },
   "dependencies": {
     "express": "~3.4.8",
